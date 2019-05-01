@@ -16,7 +16,7 @@
 ## How to run the application
  - Clone or download files in some place.
  - Open CMD or Terminal in the root folder you just cloned.
- - Write this command ````npm run start ``` to run the app.
+ - Write this command ``` npm run start ``` to run the app.
  - Open the app in the browser wih port ``` 3000 ```. 
 
 ## Note : 
