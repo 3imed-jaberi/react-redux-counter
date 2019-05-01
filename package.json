@@ -1,11 +1,35 @@
 {
   "name": "react-redux-counter",
   "version": "0.1.0",
+  "description": " basic react counter app using redux ⚛️ .. ",
+  "author": "Imed Jaberi <imed_jebari@hotmail.fr> (https://github.com/3imed-jaberi)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3imed-jaberi/react-redux-counter.git"
+  },
+  "homepage": "https://github.com/3imed-jaberi/react-redux-counter#readme",
+  "keywords": [
+    "react",
+    "redux",
+    "counter",
+    "react-redux",
+    "reducers",
+    "actions",
+    "store",
+    "providers",
+    "combine-reducers-to-root",
+    "most-power-tech"
+  ],
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-redux": "^7.0.3",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "uikit": "^3.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
